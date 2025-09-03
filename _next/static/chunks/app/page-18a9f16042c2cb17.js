@@ -998,14 +998,7 @@
                                     (0, r.jsxs)("p", {
                                       className: "text-left",
                                       children: [
-                                        "I have read and agree to the",
-                                        " ",
-                                        (0, r.jsx)(n(), {
-                                          href: "/terms-and-conditions",
-                                          target: "_blank",
-                                          className: "underline",
-                                          children: "Terms and Conditions",
-                                        }),
+                                        "I have read and agree to the Terms and Conditions",
                                       ],
                                     }),
                                   ],
